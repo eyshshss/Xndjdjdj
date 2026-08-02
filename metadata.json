@@ -1,0 +1,6 @@
+{
+  "name": "مُرسل الإيميلات - Bulk HTML Sender",
+  "description": "تطبيق متكامل لإرسال البريد الإلكتروني الجماعي وقوالب HTML وقراءة Excel وجدولة المهام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
