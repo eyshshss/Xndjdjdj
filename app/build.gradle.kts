@@ -1,4 +1,4 @@
-import com.google.gms.googleservices.GoogleServicesPlugin.MissingGoogleServicesStrategy
+i// import com.google.gms.googleservices.GoogleServicesPlugin.MissingGoogleServicesStrategy
 
 plugins {
   alias(libs.plugins.android.application)
@@ -80,7 +80,7 @@ secrets {
   defaultPropertiesFileName = ".env.example"
 }
 
-googleServices { missingGoogleServicesStrategy = MissingGoogleServicesStrategy.WARN }
+// googleServices { missingGoogleServicesStrategy = MissingGoogleServicesStrategy.WARN }
 
 // Some unused dependencies are commented out below instead of being removed.
 // This makes it easy to add them back in the future if needed.
